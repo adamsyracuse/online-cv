@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Adam Syracuse Wright 
+    tagline: Structured Finance | FinTech | Strategy
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: adam.wright@alumni.ubc.ca
+    phone: 778 926 2406
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: adamsyracusewright
+    github: adamsyracuse
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@adamsyracuse'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,19 +29,25 @@ sidebar:
         level: Native
 
       - idiom: French
-        level: Professional
+        level: Native
 
       - idiom: Spanish
-        level: Professional
+        level: Fluent
+        
+      - idiom: Italian
+        level: Advanced
+        
+      - idiom: Dutch
+        level: Beginner
 
     interests:
-      - item: Climbing
+      - item: Football (soccer)
         link:
 
-      - item: Snowboarding
+      - item: Military and economic history
         link:
 
-      - item: Cooking
+      - item: Learning new languages 
         link:
 
 career-profile:
